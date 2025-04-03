@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|c:\\users\\user069\\source\\repos\\customershipqr\\customershipqr\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|solutionrelative:customershipqr\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\customershipqr\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|solutionrelative:customershipqr\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\customershipqr\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|solutionrelative:customershipqr\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\customershipqr\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|solutionrelative:customershipqr\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\customershipqr\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|solutionrelative:customershipqr\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CUstomerShipQR||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\customershipqr\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|solutionrelative:customershipqr\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|\\\\192.168.10.4\\BPI.CustormerShipment.Web\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\customershipqr\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|solutionrelative:customershipqr\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\customershipqr\\sound\\store-scanner-beep-90395.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|solutionrelative:customershipqr\\sound\\store-scanner-beep-90395.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\customershipqr\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F15BD7-758C-4304-93C9-F71798666632}|CUstomerShipQR\\CUstomerShipQR.csproj|solutionrelative:customershipqr\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "default.aspx",
+              "DocumentMoniker": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\default.aspx",
+              "RelativeDocumentMoniker": "CUstomerShipQR\\default.aspx",
+              "ToolTip": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\default.aspx",
+              "RelativeToolTip": "CUstomerShipQR\\default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-11T01:49:56.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "default.aspx",
+              "DocumentMoniker": "\\\\192.168.10.4\\BPI.CustormerShipment.Web\\default.aspx",
+              "ToolTip": "\\\\192.168.10.4\\BPI.CustormerShipment.Web\\default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-30T07:50:32.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\default.aspx.cs",
+              "RelativeDocumentMoniker": "CUstomerShipQR\\default.aspx.cs",
+              "ToolTip": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\default.aspx.cs",
+              "RelativeToolTip": "CUstomerShipQR\\default.aspx.cs",
+              "ViewState": "AgIAAKoEAAAAAAAAAAAUwMMEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:49:58.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "CUstomerShipQR\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\Home.aspx.cs",
+              "RelativeToolTip": "CUstomerShipQR\\Home.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:49:14.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\Web.config",
+              "RelativeDocumentMoniker": "CUstomerShipQR\\Web.config",
+              "ToolTip": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\Web.config",
+              "RelativeToolTip": "CUstomerShipQR\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-11T01:48:08.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CUstomerShipQR",
+              "DocumentMoniker": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\CUstomerShipQR.csproj",
+              "RelativeDocumentMoniker": "CUstomerShipQR\\CUstomerShipQR.csproj",
+              "ToolTip": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\CUstomerShipQR.csproj",
+              "RelativeToolTip": "CUstomerShipQR\\CUstomerShipQR.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-08T04:18:47.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CUstomerShipQR\\default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\default.aspx.designer.cs",
+              "RelativeToolTip": "CUstomerShipQR\\default.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAO4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:59:51.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\Home.aspx",
+              "RelativeDocumentMoniker": "CUstomerShipQR\\Home.aspx",
+              "ToolTip": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\Home.aspx",
+              "RelativeToolTip": "CUstomerShipQR\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-11T01:48:52.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "store-scanner-beep-90395.mp3",
+              "DocumentMoniker": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\Sound\\store-scanner-beep-90395.mp3",
+              "RelativeDocumentMoniker": "CUstomerShipQR\\Sound\\store-scanner-beep-90395.mp3",
+              "ToolTip": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\Sound\\store-scanner-beep-90395.mp3",
+              "RelativeToolTip": "CUstomerShipQR\\Sound\\store-scanner-beep-90395.mp3",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPcSURBVDhPlZTfb9tUFMeP7djX9zq/7CSN0zSJ07RxQ1lbBBs/ttKugYJ4gGlbxwQCgQRsQkITvPAEb7zywBP8A7yy/wDQEILBJqSt6gra6K\u002BQdkmbNE3ixD9xilU0pR3iIx3Zvt9zvtY599oM/AenFVr95gJ7\u002BfJjztzv27C1sgtVT\u002BrHcRzauz2UYo4T3phCkxIyLsWw/c6bE\u002BxUMesLeHI/FEU91FCKROKJVFblRHmIleSknB4uSJFYwpMP5aGGjpjNWCPzaqewAO2xc2Dknh\u002Bz3TVPPpQjDUNhkRLSk4r1yNlC4/GPoDb1IejqmTGcmlB6mpfWx5GGr5y/yD19ajaNeGF4P41igUVEeerUdPrMwkXspfVxpGG4elOJbl1Lh7d/Edjt24DqiyDu3CTR8g\u002Bp4NYN9yWHc\u002BSxmZU7zx7D94ty98\u002BRYG0RyM4N4Eq/0sba4s7qysbaj\u002Bvaopf6AH2GyEdBQRbgZERbGOUqJwf0lSipLwNuLQNbXwWtumPer5uVTZv/blczwbK9Qo\u002B\u002BlkOEhbdmctxwLDDG\u002BhiZYmiwgQLHDZqjgUOMrET96tuzIyhMOK/qX/oMHRTi9tTzijE2n7YT40ELR8BmeLDcMHkJjAFV6OaLyUb\u002BXM5GQeSVHfBAy0\u002BqUd\u002BVs1NRn6TMCanxIqccH3DSz4CWnIbW0GmoyTNQkU5QNTLU6nbbpXFubaO229Qqe8ZB4weG08cGw6\u002BfiD0xk7Bfq9ric3xqYpSLq4QSFTBCWegGc6CRFOxxUWjpNm2VlsQJbTkV4Cmj7TCNcr2r9XwODN99YVhdKKBXzbtLH9R0nCexJOEJcUfIgEP/Mxnb6ILVroNVWeGtP65nY\u002BWl4/lUUGv72NWf7zXKvZx9Q4xYmFeZmXF/66VmeTvfqWxRYbZNEboDjKMDbbbA162Br7kG3OZvwN67Rjl3fqJ4o\u002B3zh9juRttevV7Sb5lmb/tcvvz0AlWMlz72l29dqq03MptVGsJhDIIfA4tZYBgGfMjdZcoEvalDvdqB8pYGUdGGSEb4S09PfPX9bvaz9z752t7vJSvzcixgKERoD0QHAZSkDSJuATGrgPbKgBobwNXXATXLQJxtiIZaMJqzITXq/pHincig7GRGhgS30js2yC6Pc3wrww9wOJglEM8TkDIEAkkCQoIAiRPgYwSQG1gmEHK1RIGAOOJqgwghfyvFwcajB4b6zt1sR2tIHQZDl8VgBtxvP4SBEt2IYHAkDLY7gt665Y7BEjAYBIPmw9AG99qsS3p1Kdvz2p/h5y9yL0\u002BK1hXeseZ6z/8Xi2W\u002Bvb3HfPH\u002BVf3q36OOThi\u002Bn\u002B0eAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-11-07T04:24:40.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\packages.config",
+              "RelativeDocumentMoniker": "CUstomerShipQR\\packages.config",
+              "ToolTip": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\packages.config",
+              "RelativeToolTip": "CUstomerShipQR\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-25T06:25:11.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\Home.aspx.designer.cs",
+              "RelativeDocumentMoniker": "CUstomerShipQR\\Home.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\USER069\\source\\repos\\CUstomerShipQR\\CUstomerShipQR\\Home.aspx.designer.cs",
+              "RelativeToolTip": "CUstomerShipQR\\Home.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T06:25:00.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
